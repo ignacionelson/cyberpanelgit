@@ -1,1 +1,1 @@
-AAAA
+TEST READ
